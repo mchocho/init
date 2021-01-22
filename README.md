@@ -13,6 +13,7 @@
 <h4>Mandatory part</h4>
 
 <h5>V.1 Let’s be friends</h5>
+
 * Follow Slash16 on Facebook, Twitter and Linkedin
 
 <h5>V.2 Network</h5>
