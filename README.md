@@ -16,6 +16,7 @@
 * Follow Slash16 on Facebook, Twitter and Linkedin
 
 <h5>V.2 Network</h5>
+
 * 1. Get the list of the network interfaces of the machine without displaying any detail for these interfaces. Only the list of names.
 * 2. Identify and display the Ethernet interface characteristics:
     - (a) Identify broadcast address
@@ -35,6 +36,7 @@
 * 15. Make the intra.42.fr address reroute to 46.19.122.85
 
 <h5>V.3 System</h5>
+
 * 1. In what file can you find the installed version of your Debian?
 * 2. What command can you use to rename your system?
 * 3. What file has to be modified to make it permanent?
@@ -61,6 +63,7 @@
 * 24. Find the command that list all packages
 
 <h5>V.4 Scripting</h5>
+
 * 1. Write a script which displays only the login, UID and Path of each entry of the /etc/passwd file.
 * 2. Write a script which delete an ACTIVE user on the VM.
 * 3. Three’s a Charm. Write a script of you choice.
