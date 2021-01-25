@@ -1,3 +1,5 @@
-An easy solution would be to go onto whoishostingthis.com and search 
-for slash16.org.
-You will find the provider is Amazon Cloudfront
+#An easy solution would be to download whois and run
+
+whois slash16.org
+
+#You will find the provider is Amazon Cloudfront

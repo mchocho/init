@@ -1,0 +1,4 @@
+du --h /var/*
+
+# The du command is used to discover what's taking 
+# up the used disk space.

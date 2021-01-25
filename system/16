@@ -1,0 +1,9 @@
+cron jobs
+
+# cron is the daemon responsible for executing scheduled
+# and recurring commands (every day, every week, etc).
+# Many tasks are scheduled for regular execution e.g
+# rotating logs, back-ups and maintenance scripts.
+# All users can schedule the execution of a task within
+# their crontab.
+#     crontab -e

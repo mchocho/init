@@ -1,0 +1,5 @@
+w
+
+# The w command displays a list of all users logged in to the server
+# and what they are doing.
+# Similar to the who command but displays more information 

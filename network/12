@@ -1,1 +1,9 @@
+# Dynamic Host Configuration Protocol is an application layer protocol
+# used by hosts for obtaining network setup information.
+# The DHCP is controlled by a DHCP server that dynamically distributes
+# network configuration parameters e.g IP address, subnet mask and
+# gateway address.
+
 ifconfig eth0
+
+# The IP assigned by the DHCP server is indicated as inet addr.

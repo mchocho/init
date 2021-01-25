@@ -1,4 +1,6 @@
-The file that contains mappings between an IP address and
-name of the host is 
+# The file that contains mappings between an IP address and
+# name of the host is the hosts file under the /etc directory.
 
-/etc/hosts
+cat /etc/hosts
+
+# This file overrides mappings from DNS.

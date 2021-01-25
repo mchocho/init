@@ -1,1 +1,1 @@
-ip route | awk '/default/ {print $3}'
+route -n | grep UG
