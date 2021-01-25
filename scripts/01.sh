@@ -1,6 +1,6 @@
 #!/bin/bash
 
-aws -F ':' '{print $1 $3 $6}' /etc/passwd
+awk -F ':' '{print $1 $3 $6}' /etc/passwd
 
 # Where
 # $1 is the user name or login
