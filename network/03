@@ -1,1 +1,1 @@
-ifconfig | grep HWaddr
+ip addr sh | grep link/ | awk '{if (NR == 2) print $2}'
