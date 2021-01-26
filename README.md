@@ -21,7 +21,7 @@
 * 1. Get the list of the network interfaces of the machine without displaying any detail for these interfaces. Only the list of names.
 * 2. Identify and display the Ethernet interface characteristics:
     - (a) Identify broadcast address
-    - (a) Identify broadcast address
+    - (b) Identify all IP addresses which are part of the same subnet
 * 3. Identify the MAC address of the Wi-Fi card
 * 4. Identifiy the default gateway in the routing table
 * 5. Identify the IP address of the DNS that responds to the following url: slash16.org
