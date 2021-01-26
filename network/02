@@ -1,3 +1,6 @@
-curl ifconfig.me
+ip addr | grep inet | awk '{if (NR == 3) print $2}'
 
-arp -v
+# Download nmap
+# sudo apt install nmap
+
+sudo nmap -sn ip addr

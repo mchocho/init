@@ -1,1 +1,1 @@
-ifconfig | awk '{print $1}'
+ip -a | awk '{print $1}'
