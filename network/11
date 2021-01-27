@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #The first line displays the IP address and name of the device.
 
 traceroute slash16.org | awk '{ if (NR == 2) print}'

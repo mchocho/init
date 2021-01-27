@@ -1,5 +1,7 @@
+#!/bin/bash
+
 nslookup 42.fr | grep Addres | tail -l
 
 # Address:        172.31.0.2#53
-3 Address: 163.172.250.12
+# Address: 163.172.250.12
 # Address: 163.172.250.13

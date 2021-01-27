@@ -1,1 +1,3 @@
-# Simply add the IP address to the /etc/hosts file
+#!/bin/bash
+
+echo "Simply add the IP address to the /etc/hosts file"

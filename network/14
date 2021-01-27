@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # The file that contains mappings between an IP address and
 # name of the host is the hosts file under the /etc directory.
 

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # An easy solution would be to download whois and run
 # sudo install whois
 

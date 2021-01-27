@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ip addr | grep inet | awk '{if (NR == 3) print $2}'
 
 # Download nmap
