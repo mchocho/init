@@ -1,1 +1,1 @@
-route -n | grep UG
+ip route

@@ -2,8 +2,8 @@
   <h1>init</h1>
 
   <p>
-  	This is an initiatian subject that will give you the opportunity to 
-  	discover basic system and network commands. You can find the subject 
+    This is an initiatian subject that will give you the opportunity to 
+    discover basic system and network commands. You can find the subject 
     <a href="/doc/init.en.pdf">here</a>
   </p>
 
@@ -68,6 +68,30 @@
 * 1. Write a script which displays only the login, UID and Path of each entry of the /etc/passwd file.
 * 2. Write a script which delete an ACTIVE user on the VM.
 * 3. Three’s a Charm. Write a script of you choice.
+
+<h5>References</h5>
+
+<ul>
+
+  <li>
+    <a href="https://linuxhandbook.com/find-ip-address/">
+      Find IP address in Linux command line
+    </a>
+    <a href="https://www.howtogeek.com/423709/how-to-see-all-devices-on-your-network-with-nmap-on-linux/">
+      How to See All Devices on Your Network With nmap on Linux
+    </a>
+    <a href="https://www.cyberithub.com/how-to-list-display-find-mac-address-in-linux">
+      How to List/Get/Display/Find MAC Address in Linux Using 11 Popular Methods
+    </a>
+    <a href="https://networkustad.com/2019/06/09/host-default-gateway-and-routing-table/">
+      The Host Default Gateway and Routing Table
+    </a>
+    <a href="https://www.tecmint.com/install-dig-and-nslookup-in-linux/">
+      How to Install and Use dig and nslookup Commands in Linux
+    </a>
+  </li>
+
+</ul>
 
 <p>
 Kisses and chocolates

@@ -1,3 +1,6 @@
 cat /etc/resolv.conf
 
-#Am I suppose to be impressed?
+# domain us-east-2.compute.internal
+# search us-east-2.compute.internal
+# nameserver 172.31.0.2
+# Am I suppose to be impressed?

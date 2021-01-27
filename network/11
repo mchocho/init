@@ -1,3 +1,5 @@
 #The first line displays the IP address and name of the device.
 
-traceroute slash16.org
+traceroute slash16.org | awk '{ if (NR == 2) print}'
+
+# 1  ec2-52-15-0-103.us-east-2.compute.amazonaws.com (52.15.0.103)  5.680 ms ec2-52-15-0-109.us-east-2.compute.amazonaws.com (52.15.0.109)  2.339 ms ec2-52-15-0-105.us-east-2.compute.amazonaws.com (52.15.0.105)  3.519 ms
