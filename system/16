@@ -1,4 +1,4 @@
-cron jobs
+#!/bin/bash
 
 # cron is the daemon responsible for executing scheduled
 # and recurring commands (every day, every week, etc).
@@ -7,3 +7,5 @@ cron jobs
 # All users can schedule the execution of a task within
 # their crontab.
 #     crontab -e
+
+cron jobs

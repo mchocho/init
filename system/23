@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ssh username@ip_address
 
-#X -query ${ip_address}
+# X -query ${ip_address}

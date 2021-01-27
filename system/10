@@ -1,6 +1,8 @@
-sudo fdisk-1
+#!/bin/bash
 
 # Usually a hard drive disk is divided into 1 or more logical 
 # disks called partitions.
 # This division is described in the partition table found 
 # in sector 0 of the hard disk.
+
+sudo fdisk-1

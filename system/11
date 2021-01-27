@@ -1,6 +1,8 @@
-df -h
+#!/bin/bash
 
 # The df and du commands report on disk space usage.
 # The df command finds out the availale and used disk space.
 # The -h (human readable) option instructs df to use the most 
 # applicable unit for the size of each filesystem.
+
+df -h
