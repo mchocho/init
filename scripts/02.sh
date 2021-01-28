@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo userdel user
+sudo userdel slash16
