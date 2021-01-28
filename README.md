@@ -89,6 +89,9 @@
     <a href="https://www.tecmint.com/install-dig-and-nslookup-in-linux/">
       How to Install and Use dig and nslookup Commands in Linux
     </a>
+    <a href="https://www.cyberciti.biz/faq/linux-find-out-dhcp-server-ip-address/">
+      Linux find DHCP server IP address using CLI
+    </a>
   </li>
 
 </ul>
