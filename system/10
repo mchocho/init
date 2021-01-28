@@ -5,4 +5,4 @@
 # This division is described in the partition table found 
 # in sector 0 of the hard disk.
 
-sudo fdisk-1
+sudo fdisk -l

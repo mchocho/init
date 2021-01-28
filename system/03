@@ -1,3 +1,5 @@
 #!/bin/bash
 
+echo "This file /etc/hostname"
+
 cat /etc/hostname

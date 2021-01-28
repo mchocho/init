@@ -3,4 +3,4 @@
 # The du command is used to discover what's taking 
 # up the used disk space.
 
-du --h /var/*
+du --human-readable /var/*
