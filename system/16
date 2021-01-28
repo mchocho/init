@@ -8,4 +8,4 @@
 # their crontab.
 #     crontab -e
 
-cron jobs
+crontab -e
